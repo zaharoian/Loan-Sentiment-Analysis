@@ -1,2 +1,5 @@
 # Loan-Sentiment-Analysis
-My Willamette University Data Science thesis
+
+## Abstract
+Peer-to-peer (P2P) lending services, like LendingClub, are growing as an alternative to those who cannot or choose not to borrow from traditional institutions such as banks. Individuals who act as lenders fund a borrower and are self-deterministic in who they fund. It is imperative that this new class of lenders has the tools to accurately assess borrowers and their likelihood of defaulting. We tested to see if the model will see a statistically signicant improvement in performance when the textual data are used in conjunction with nancial data to predict loan default. A baseline model was created using Logistic Regression. The sentiment was extracted using the Bag-of-Words method with the Loughran-McDonald Word Sentiment list. This data was added to the original features and a new model was compared against the baseline model. We found that there is a signicant dierence when adding the sentiment analysis to the pre-existing model, given enough data. This agrees with current literature surrounding textual analysis and credit risk, though more advanced sentiment analysis may need to be used to glean a greater performance improvement.
+
