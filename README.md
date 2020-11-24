@@ -9,3 +9,4 @@ Peer-to-peer (P2P) lending services, like LendingClub, are growing as an alterna
 - The code is within the two iPython Notebooks: Loan Analysis 36 month.ipynb & Loan Analysis 60 month.ipynb
 - The Loughran-McDonald Word sentiment list was included in the /data folder, but the original dataset was too large to commit.
 - The plots used in the thesis can be found as .png files in /plots, with uni- prefixed images containing univariate graphs and bi- prefixed images containing bivariate graphs against Loan Status.
+- The results_36.csv and results_60.csv are the results from the 100 trials ran on each loan term, which is summarized in the paper.
